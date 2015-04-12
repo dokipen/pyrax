@@ -90,6 +90,7 @@ setup(
         "keyring",
         "requests>=2.2.1",
         "six>=1.5.2",
+        "hgtools",
     ] + testing_requires,
     packages=[
         "pyrax",
